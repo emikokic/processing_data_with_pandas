@@ -1,0 +1,10 @@
+name: pandas_talk
+channels:
+  - defaults
+  - conda-forge
+  - rapidsai
+dependencies:
+  - jupyter
+  - rise
+  - numpy=1.16.2
+  - pandas=0.24.2
